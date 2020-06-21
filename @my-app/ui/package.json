@@ -1,0 +1,7 @@
+{
+  "name": "@my-app/ui",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz"
+  }
+}

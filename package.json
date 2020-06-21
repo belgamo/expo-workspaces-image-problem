@@ -1,0 +1,11 @@
+{
+  "name": "android-image-problem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "@my-app/expo",
+    "@my-app/ui"
+  ]
+}
